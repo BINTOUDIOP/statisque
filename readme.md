@@ -6,5 +6,5 @@ Ce projet vise à modéliser et comprendre les facteurs qui influencent l’Air 
 
 **Résultats clés**
 *  Les particules fines PM2.5 et PM10 sont les plus déterminantes dans le calcul de l’AQI.
-*  Les gaz comme le NO2 et le CO ont un impact secondairegi mais non négligeable.
+*  Les gaz comme le NO2 et le CO ont un impact secondaire mais non négligeable.
 * Le modèle Random Forest a montré de bonnes performances avec un R² > 0.8.
